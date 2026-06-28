@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Railway-Ticket-Service/static/css/main.5269c17f.css",
+    "main.js": "/Railway-Ticket-Service/static/js/main.76ab1fa3.js",
+    "static/js/453.20359781.chunk.js": "/Railway-Ticket-Service/static/js/453.20359781.chunk.js",
+    "index.html": "/Railway-Ticket-Service/index.html",
+    "main.5269c17f.css.map": "/Railway-Ticket-Service/static/css/main.5269c17f.css.map",
+    "main.76ab1fa3.js.map": "/Railway-Ticket-Service/static/js/main.76ab1fa3.js.map",
+    "453.20359781.chunk.js.map": "/Railway-Ticket-Service/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5269c17f.css",
+    "static/js/main.76ab1fa3.js"
+  ]
+}
